@@ -15,4 +15,5 @@ sh remove_relatives.sh >> discard.txt
 rm par_file_test.txt
 rm discard.txt
 rm Himba*
+rm unrelateds.csv
 echo "All tests passed :-)"
