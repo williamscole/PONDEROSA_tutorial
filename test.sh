@@ -1,4 +1,4 @@
-#sh setup.sh
+sh setup.sh
 python PONDEROSA.py par_file.txt > discard.txt
 python make_fam.py par_file.txt > discard.txt
 
