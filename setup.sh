@@ -1,6 +1,5 @@
 # activate python virtual environment
-echo "Activating python3.6 virtual environment"
-source /share/hennlab/projects/himba_pedigree/PONDEROSA_tutorial/bin/activate
+#source /share/hennlab/projects/himba_pedigree/PONDEROSA_tutorial/bin/activate
 
 # copy skeleton Himba .fam file into directory
 echo "Copying skeleton .fam file into current directory"
