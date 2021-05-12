@@ -1,7 +1,7 @@
 Run_type
-po_only False
+po_only True
 ped_only False
-run_all True
+run_all False
 
 Files
 king_file /share/hennlab/projects/himba_pedigree/PONDEROSA_tutorial/Himba.seg
