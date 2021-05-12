@@ -10,7 +10,7 @@ fam_file Himba.fam
 map_file /share/hennlab/projects/himba_pedigree/plink_data/newHimba_shapeit.chr1.map
 ped_file None
 age_file /share/hennlab/projects/himba_pedigree/ALGORITHM/Himba_Age.txt
-hap_file Himba.haps
+hap_file None
 
 Parameters
 out Himba
